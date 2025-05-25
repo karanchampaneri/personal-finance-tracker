@@ -1,0 +1,1 @@
+Built a command-line finance tracker that logs transactions to a CSV, analyzes income and expenses within date ranges using pandas, and visualizes trends with matplotlib. Implements boolean masking, resampling, and file-based data persistence.
