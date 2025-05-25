@@ -1,0 +1,48 @@
+date,amount,category,description
+20-07-2024,125.65,Income,Salary
+25-05-2025,123.0,Income,hi
+25-05-2025,50.0,Expense,Grad Photos
+10-06-2025,200.0,Income,Freelance
+15-06-2025,75.5,Expense,Groceries
+18-06-2025,40.0,Expense,Coffee & Snacks
+01-07-2025,300.0,Income,Bonus
+03-07-2025,60.0,Expense,Movie Tickets
+05-07-2025,45.0,Expense,Uber
+07-07-2025,180.25,Income,Side Project
+10-07-2025,25.0,Expense,Lunch
+11-07-2025,80.0,Expense,Gift
+12-07-2025,500.0,Income,Stock Dividend
+14-07-2025,20.0,Expense,Books
+15-07-2025,90.0,Expense,Clothing
+18-07-2025,100.0,Income,Refund
+20-07-2025,60.0,Expense,Gas
+22-07-2025,30.0,Expense,Parking
+25-07-2025,700.0,Income,Consulting Work
+28-07-2025,45.0,Expense,Haircut
+29-07-2025,350.0,Income,Contract Payout
+30-07-2025,55.0,Expense,Dinner Out
+15-02-2000,950.0,Income,First Job Paycheck
+01-03-2001,45.0,Expense,Movie Night
+20-06-2002,1230.5,Income,Freelance Work
+11-09-2003,75.0,Expense,Stationery
+25-12-2004,200.0,Expense,Christmas Gifts
+10-01-2006,1600.0,Income,Consulting Project
+17-05-2007,85.0,Expense,Groceries
+04-07-2008,120.0,Expense,Clothing
+12-11-2009,300.0,Income,Stock Dividend
+23-03-2010,40.0,Expense,Coffee
+30-08-2011,250.0,Income,Part-time Job
+14-02-2012,95.0,Expense,Dinner Date
+08-06-2013,1300.0,Income,Contract Work
+27-09-2014,65.0,Expense,Books
+01-01-2015,2000.0,Income,New Year Bonus
+18-04-2016,35.0,Expense,Snacks
+05-10-2017,275.0,Expense,Electronics
+21-12-2018,110.0,Expense,Holiday Travel
+11-03-2019,1500.0,Income,Project Payment
+07-07-2020,60.0,Expense,Subscriptions
+29-10-2021,90.0,Expense,Gym
+15-01-2022,1350.0,Income,Remote Job
+09-05-2023,45.0,Expense,Mobile Recharge
+28-08-2024,400.0,Income,Internship Stipend
+31-12-2025,120.0,Expense,New Year's Eve
